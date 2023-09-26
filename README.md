@@ -1,2 +1,2 @@
 
-<a href="https://todo-uptrader.vercel.app/">Ссылка на развернутое приложение</a>
+vtoptask-qdvvhrz1v-bekhzod2002.vercel.app
